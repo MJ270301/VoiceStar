@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+aiohttp==3.9.1
+torch==2.1.0
+torchaudio==2.1.0
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+python-dotenv==1.0.0
+transformers==4.36.0
+pillow==10.1.0
+requests==2.31.0
